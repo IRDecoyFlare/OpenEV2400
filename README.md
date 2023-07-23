@@ -8,6 +8,7 @@
 This project may contains high voltage,high temperature and other hazard elements. Readers should undersatnd these risks and take proper actions to pervent being injured. 
 
 ## Introduction
+The program is still in progress,please check before use.
 
 The [EV2400](https://www.ti.com/tool/EV2400) is a toolset for programming and debug BQ series devices manufactured by Texas Instruments. The EV2400 is the EV2300's successor. Compared to the EV2300, the EV2400 has higher compatibility with newer systems and chips. Several designs are  available in the lib:
 
