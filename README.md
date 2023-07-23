@@ -57,7 +57,7 @@ Open EV2400 pin configurations(Figure.6)
 Figure.6
 
 ### Firmware
-Unfortunately,TI doesn't make the code public. But we find the frimware extracted from the offical EV2400 on a Chinese website. [link](https://download.csdn.net/download/qq_38662273/85409591?utm_source=bbsseo) 
+Unfortunately,TI doesn't make the code public. But we find the frimware extracted from the offical EV2400 on a [Chinese website](https://download.csdn.net/download/qq_38662273/85409591?utm_source=bbsseo). 
 Please use [UNIFLASH](https://www.ti.com/tool/UNIFLASH) , or other software with EZFET burning. Firmware is divided into 2 different types with the same function and no difference. 
 
 ### PCB files 
