@@ -1,8 +1,11 @@
 # Open EV2400 
 ![Static Badge](https://img.shields.io/badge/license-GPL--3.0-orange)
 
+## Safety statement
 
-License
+![warning](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/warning.png)
+
+This project may contains high voltage,high temperature and other hazard elements. Readers should undersatnd these risks and take proper actions to pervent being injured. 
 
 ## Introduction
 
