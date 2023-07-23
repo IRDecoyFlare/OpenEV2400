@@ -21,10 +21,11 @@ The [EV2400](https://www.ti.com/tool/EV2400) is a toolset for programming and de
 
 Spec | EV2400 Original  |EV2400 Low Cost|EV2400 Inexpensive|EV2400 Affordable
 :----: | :----: |:----: |:----: |:----:
-Isolated USB port ||no|no|no
+Isolated USB port |yes|no|no|no
 I/O protection  | yes |yes|no|yes
-Upgrade from TI|yes|yes|yes|?
+Upgrade from TI|yes|yes|yes|unknown
 MCU MSP430|F5529|F5529|F5529|F5528
+Verified |yes|yes|yes|no
 
 On the user level there is no difference in handling or operation between these different revisions.
 
@@ -50,3 +51,10 @@ Figure.5
 Open EV2400 pin configurations(Figure.6)
 ![Figure.6](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure6.png)
 Figure.6
+
+### Firmware
+Unfortunately,TI doesn't make the code public. But we find the frimware extracted from the offical EV2400 on a Chinese website. [link](https://download.csdn.net/download/qq_38662273/85409591?utm_source=bbsseo) 
+Please use [UNIFLASH](https://www.ti.com/tool/UNIFLASH) , or other software with EZFET burning. Firmware is divided into 2 different types with the same function and no difference. 
+
+### PCB files 
+ PCB is designed by EasyEDA.All files are provided(including pcb files and Schematic)
