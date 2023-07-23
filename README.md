@@ -30,17 +30,23 @@ On the user level there is no difference in handling or operation between these 
 
 ### Pictures
 ![Figure.1](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure1.png)
+Figure.1
 
 ![Figure.2](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure2.png)
+Figure.2
 
 ![Figure.3](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure3.png)
+Figure.3
 
 ![Figure.4](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure4.png)
+Figure.4
 
 ### Pin Configurations
 
 Offical EV2400 pin configurations(Figure.5)
 ![Figure.5](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure5.png)
+Figure.5
 
 Open EV2400 pin configurations(Figure.6)
 ![Figure.6](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure6.png)
+Figure.6
