@@ -29,7 +29,7 @@ MCU MSP430|F5529|F5529|F5529|F5528
 On the user level there is no difference in handling or operation between these different revisions.
 
 ### Pictures
-![Figure.1](https://github.com/IRDecoyFlare/OpenEV2400/tree/main/Picture/Figure1.png)
+![Figure.1](https://github.com/IRDecoyFlare/OpenEV2400/blob/main/Picture/Figure1.png)
 
 ![Figure.2](https://github.com/IRDecoyFlare/OpenEV2400/tree/main/Picture/Figure2.png)
 
