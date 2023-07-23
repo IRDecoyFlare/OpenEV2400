@@ -60,4 +60,4 @@ Unfortunately,TI doesn't make the code public. But we find the frimware extracte
 Please use [UNIFLASH](https://www.ti.com/tool/UNIFLASH) , or other software with EZFET burning. Firmware is divided into 2 different types with the same function and no difference. 
 
 ### PCB files 
- PCB is designed by EasyEDA.All files are provided(including pcb files and Schematic)
+ PCB is designed by EasyEDA Pro .All files are provided(including pcb files and Schematic)
